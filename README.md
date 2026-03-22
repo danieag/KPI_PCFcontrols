@@ -8,13 +8,15 @@ All controls are built with **PCF API v1.3.18** using **pac CLI v1.51.1** and sh
 - Segoe UI typography
 - Lightweight CSS and SVG icons where applicable
 
-<img width="2140" height="1173" alt="image" src="https://github.com/user-attachments/assets/f33f2fdc-8444-4b5a-8dfc-1423a37a24ed" />
+<img width="1176" height="552" alt="image" src="https://github.com/user-attachments/assets/2606a96c-78fd-43af-a104-142746cd075d" />
 
 
 ---
 
 ## Included Controls
 
+### UPDATE: 4 new controls for showing numerical values have been added. Value Card 1, 2, 3, and 4. Better color control has been added.   
+  
 ### 1. DAEngagementScorecard
 A configurable **3-metric engagement scorecard** that calculates an overall score using **weighted**, **average**, or **sum** scoring methods.
 
